@@ -1,9 +1,14 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 > [!info]
 > **Module Objective**
 > Learn how to use **Snowflake Notebooks** to organize SQL workflows and **Streamlit in Snowflake (SiS)** to build simple data-entry applications that insert data into Snowflake tables.
 
-#accenture #snowflake #cognizant 
-
+ 
 ---
 
 # Quick Revision

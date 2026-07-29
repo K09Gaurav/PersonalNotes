@@ -1,9 +1,13 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 
 > [!info]
 > **Module Objective**
 > Learn how Snowflake manages databases, schemas, roles, ownership, and access control using **RBAC (Role-Based Access Control)** and **DAC (Discretionary Access Control)**.
-
-#accenture #snowflake #cognizant 
 
 ---
 

@@ -1,9 +1,13 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 
 > [!info]
 > **Module Objective**
 > Learn how Snowflake organizes data using **Databases → Schemas → Tables**, create and manage these containers, understand worksheet context, and explore metadata using `SHOW` commands.
-
-#accenture #snowflake #cognizant 
 
 ---
 

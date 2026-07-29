@@ -1,10 +1,15 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 
 > [!info]
 > **Module Objective**
 > Learn how to efficiently load data from external files into Snowflake tables using the **Load Data Wizard**, understand CSV file formats, customize file parsing options, and perform basic data validation and cleanup.
 
-#accenture #cognizant #snowflake 
-
+ 
 ---
 
 # Quick Revision

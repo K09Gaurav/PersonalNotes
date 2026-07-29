@@ -1,9 +1,14 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 > [!info]
 > **Module Objective**
 > Learn how to create tables using SQL, choose appropriate data types, insert data, preview tables, and retrieve data using basic SQL queries.
 
-#accenture #snowflake #cognizant 
-
+ 
 ---
 
 # Quick Revision

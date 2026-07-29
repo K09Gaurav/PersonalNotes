@@ -1,9 +1,14 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 > [!info]
 > **Module Objective**
 > Learn how relational databases organize data using **tables**, **unique identifiers (Primary Keys)**, **Sequences**, **Auto Increment columns**, and **Bridge Tables** to model relationships between data.
 
-#accenture #cognizant #snowflake 
-
+ 
 ---
 
 # Quick Revision

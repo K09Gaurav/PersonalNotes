@@ -1,10 +1,15 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 
 > [!info]
 > **Module Objective**
 > Learn how Snowflake Worksheets work, understand worksheet context settings, explore the purpose of Virtual Warehouses, and understand warehouse sizing, scaling, and cost management.
 
-#accenture #snowflake #cognizant 
-
+ 
 ---
 # Quick Revision
 

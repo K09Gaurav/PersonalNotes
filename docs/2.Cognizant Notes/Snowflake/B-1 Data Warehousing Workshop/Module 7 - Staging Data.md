@@ -1,10 +1,14 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 
 > [!info]
 > **Module Objective**
 > Learn how Snowflake stages files before loading them into tables, create and use **Stage** objects, define reusable **File Formats**, and load data efficiently using the **COPY INTO** command.
-
-#accenture #snowflake #cognizant 
-
+ 
 ---
 
 # Quick Revision

@@ -1,9 +1,13 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 > [!info]
 > **Module Objective**
 > Learn how Snowflake stores and queries **Semi-Structured Data** using the **VARIANT** data type, create a **JSON File Format**, load JSON files using `COPY INTO`, and extract values using JSON path notation.
-
-#accenture #cognizant #snowflake 
-
+ 
 
 ---
 # Quick Revision

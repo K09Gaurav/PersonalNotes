@@ -1,9 +1,14 @@
+---
+tags:
+  - accenture
+  - snowflake
+  - cognizant
+---
 > [!info]
 > **Module Objective**
 > Learn how to work with **nested JSON** in Snowflake using **JSON paths**, **arrays**, **FLATTEN**, and **Views** to make semi-structured data appear like relational tables.
 
-#accenture #cognizant #snowflake 
-
+ 
 ---
 
 ## 1. Nested JSON

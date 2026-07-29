@@ -1,0 +1,31 @@
+site_name: Corporate Notes
+theme:
+  name: material
+  palette:
+
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - search.highlight
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+exclude_docs: |
+  3.Accenture Notes/Stream/Lecture Notes/**
+  3.Accenture Notes/DHH/**
+extra_css:
+  - stylesheets/extra.css

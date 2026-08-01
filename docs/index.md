@@ -1,7 +1,3 @@
 # Corporate Notes
 
-Welcome to my documentation.
-
-- KPIT
-- Cognizant
-- Accenture
+Welcome to this khajana

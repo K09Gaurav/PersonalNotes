@@ -1,5 +1,8 @@
-#java #javaCollections 
-
+---
+tags:
+  - java
+  - javaCollections
+---
 ## **Java Collection Framework (JCF)**
 
 The **Java Collection Framework (JCF)** is a set of classes and interfaces in Java that provide data structures and algorithms to store, manipulate, and retrieve data efficiently. It is part of the `java.util` package and provides implementations of various commonly used data structures like **lists, sets, queues, and maps**.

@@ -1,5 +1,9 @@
-#spring #java 
-## 📌 What is Spring Boot?
+---
+tags:
+  - java
+  - spring
+---
+# 📌 What is Spring Boot?
 | 🔧 Technical Version                                                                                                                                                | 🧠 Beginner-Friendly Version                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Spring Boot is a **rapid application development framework** built on top of Spring. It simplifies the setup, configuration, and deployment of Spring applications. | Spring Boot is like **Spring with batteries included** — it gives you everything ready-to-go, so you can build apps **without writing extra setup code**. It’s like using a **power tool instead of a manual screwdriver**. |

@@ -1,4 +1,9 @@
-#spring #java 
+---
+tags:
+  - java
+  - spring
+---
+ 
 📌 What Is a “Bean” in Spring?
 
 |🔧 Technical Version|🧠 Beginner-Friendly Version|

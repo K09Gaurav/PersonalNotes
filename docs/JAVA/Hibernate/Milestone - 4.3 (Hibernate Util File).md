@@ -1,5 +1,8 @@
-#java #hibernate
-
+---
+tags:
+  - java
+  - hibernate
+---
 
 ### **HibernateUtil.java – What is it and Why Use it?**
 

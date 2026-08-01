@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 # Maven
 
 Maven is a **build automation and dependency management tool** for Java projects.

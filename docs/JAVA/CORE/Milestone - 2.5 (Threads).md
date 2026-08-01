@@ -1,5 +1,8 @@
-#java #thread
-
+---
+tags:
+  - java
+  - thread
+---
 
 ### **1️⃣ What is a Thread?**
 

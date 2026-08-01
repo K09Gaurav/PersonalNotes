@@ -1,4 +1,9 @@
-#java #stream
+---
+tags:
+  - java
+  - stream
+---
+
 
 The **Stream API** in Java (introduced in **Java 8**) allows for functional-style operations on collections, arrays, and data structures. It provides a clean and **efficient way** to process data without modifying the original collection.
 

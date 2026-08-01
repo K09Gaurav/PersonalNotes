@@ -1,5 +1,8 @@
-#java #Interface 
-
+---
+tags:
+  - java
+  - interface
+---
 
 
 > There are 9 Major Types of functions or Methods you can create in Java

@@ -1,5 +1,8 @@
-#java #hibernate 
-
+---
+tags:
+  - java
+  - hibernate
+---
 
 ### 🔹 What is CRUD?
 

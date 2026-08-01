@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 
 Spring Boot supports multiple ways to initialize the database (create tables, insert initial data) when the application starts. Here's how it works:
 

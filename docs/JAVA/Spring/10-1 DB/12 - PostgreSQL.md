@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 ✅ How to Use PostgreSQL in Spring Boot
 
 ### Add PostgreSQL Dependency in pom.xml

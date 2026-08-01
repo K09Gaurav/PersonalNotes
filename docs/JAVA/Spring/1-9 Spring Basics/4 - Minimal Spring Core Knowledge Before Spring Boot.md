@@ -1,4 +1,9 @@
-#spring #java 
+---
+tags:
+  - java
+  - spring
+---
+
 >Focus: **Annotations** + **Lightweight Configuration**  
 >So you know what Spring Boot is automating for you
 

@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 # Spring Boot Architecture Overview
 
 Spring Boot is a **layer on top of the Spring Framework**, designed to simplify development by auto-configuring many parts of your application.

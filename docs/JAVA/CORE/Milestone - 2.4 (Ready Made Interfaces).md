@@ -1,5 +1,8 @@
-#java #Interface
-
+---
+tags:
+  - java
+  - interface
+---
 
 ### **Ready-Made Functional Interfaces in Java (Java 8+) 🚀**
 

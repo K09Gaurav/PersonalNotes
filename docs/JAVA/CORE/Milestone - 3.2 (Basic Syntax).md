@@ -1,5 +1,8 @@
-#java #javaCollections 
-
+---
+tags:
+  - java
+  - javaCollections
+---
 ## **1. List (Ordered, allows duplicates)**
 
 A `List` is an ordered collection that allows duplicate elements.

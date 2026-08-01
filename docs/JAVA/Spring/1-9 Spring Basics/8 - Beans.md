@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 # What is a Bean in Spring?
 
 Think of a **bean** as just a **normal Java object** —  

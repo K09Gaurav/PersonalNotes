@@ -1,4 +1,10 @@
-## 📌 What is the Spring Framework?
+---
+tags:
+  - java
+  - hibernate
+---
+
+### 📌 What is the Spring Framework?
 
 Spring is a **Java-based framework** that helps you **build better applications faster**.
 

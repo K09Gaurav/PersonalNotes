@@ -1,4 +1,8 @@
-#java #hibernate
+---
+tags:
+  - java
+  - hibernate
+---
 
 ### What is ORM? 🤔
 

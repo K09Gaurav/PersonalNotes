@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 ## 🔍 What is H2?
 
 - A lightweight, in-memory SQL database written in Java.

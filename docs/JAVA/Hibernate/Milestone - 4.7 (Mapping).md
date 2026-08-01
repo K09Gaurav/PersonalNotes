@@ -1,5 +1,8 @@
-#java #hibernate 
-
+---
+tags:
+  - java
+  - hibernate
+---
 
 ## 🔗 Hibernate Mapping Techniques – Notes + Hands-on
 

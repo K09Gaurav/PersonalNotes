@@ -1,5 +1,10 @@
-#spring #java 
+---
+tags:
+  - java
+  - spring
+---
 
+ 
 | 🔧 **Technical Version**                                                                                                                                                                                                                                                                                                                                                                | 🧠 **Beginner-Friendly Version (Dumbed Down)**                                                                                                                                                                                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Spring Framework Architecture** is made up of several modules organized into layers: <br>Core Container,<br>AOP, Data Access,<br>Web, and others.<br>These modules work together or independently depending on your app's needs.<br><br>.<br>                                                                                                                                         | Spring is like a **big toolbox** made up of smaller tools. <br>You don’t need all of them — just grab the tools you need for the job.<br>For example, if you need to talk to a database, use the JDBC tool;<br>if you’re making a website, use the Web tool.<br><br><br>.                                       |

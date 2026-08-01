@@ -1,5 +1,8 @@
-#java #hibernate 
-
+---
+tags:
+  - java
+  - hibernate
+---
 #### 🔹 What is a Transaction?
 
 - A unit of work that is either **fully completed or not done at all**.

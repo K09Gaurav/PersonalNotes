@@ -1,5 +1,8 @@
-#java #hibernate 
-
+---
+tags:
+  - java
+  - hibernate
+---
 
 ## 📌 Hibernate Query Language (HQL)
 

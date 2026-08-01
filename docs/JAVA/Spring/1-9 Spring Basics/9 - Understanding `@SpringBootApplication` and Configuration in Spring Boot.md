@@ -1,4 +1,9 @@
-#spring #java
+---
+tags:
+  - java
+  - spring
+---
+
 ## `@SpringBootApplication` — What It Really Does
 
 This annotation is **not just a label** — it's a shortcut for 3 core Spring annotations:

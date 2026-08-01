@@ -1,4 +1,8 @@
-#java #stream  
+---
+tags:
+  - java
+  - stream
+---
 
 
 Interfaces are ==Center focus== on how functional programming works in java

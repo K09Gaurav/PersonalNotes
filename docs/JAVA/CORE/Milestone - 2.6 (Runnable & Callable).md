@@ -1,6 +1,8 @@
-#java #thread 
-
-
+---
+tags:
+  - java
+  - thread
+---
 
 ### **Runnable vs Callable in Java**
 
